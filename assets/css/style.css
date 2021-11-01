@@ -131,6 +131,9 @@ a:hover {
   color:white;
   font-weight:600;
 }
+.display-1{
+  font-size: 100px;
+}
 #top-pg-second-font{
   font-family: "Poppins", sans-serif;
   color:white;
@@ -293,6 +296,14 @@ a:hover {
 }
 #hero .btn-scroll:hover {
   color: #ffb727;
+}
+.logo-sizing-hero-top{
+  transform: translateY(-17em);
+  width: 130px;
+  padding-top: 60px;
+}
+.hero-text-top{
+  margin-top: -100px;
 }
 
 /*--Table of Contents Section--*/
